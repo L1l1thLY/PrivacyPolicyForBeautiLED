@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 隐私政策与服务协议
 
-You can use the [editor on GitHub](https://github.com/L1l1thLY/PrivacyPolicyForBeautiLED/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。本软件会不时更新本隐私权政策。您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. 隐私信息
 
-### Markdown
+本软件不会收集或上传您的隐私信息。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. 蓝牙功能
 
-```markdown
-Syntax highlighted code block
+您可以授权开启蓝牙连接您的智能灯光控制器，以便使用本软件控制智能灯光控制器。同时，您也可以随时通过相关功能设置取消该权限。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/L1l1thLY/PrivacyPolicyForBeautiLED/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
